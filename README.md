@@ -1,5 +1,6 @@
 # phd-admission
-本项目基于 https://creativecommons.org/licenses/by-nc-sa/4.0/ 协议
+本项目基于 https://creativecommons.org/licenses/by-nc-sa/4.0/ 协议  
+本项目永久链接 https://github.com/liuup/phd-admission
 
 # 1. 谁适合阅读
 本文主要适合计算机学生. 其他专业的学生也OK, 有很多规则、流程都是通用的, 希望能给所有人带来一些启发性的指导
