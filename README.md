@@ -167,7 +167,7 @@ PhD第一年不固定导师, 在系中做轮转, 只上课, 同时跟系中的�
 
 1. 简历 CV/Resume: https://github.com/fky2015/resume-ng
 2. 推荐信 Recommendation Letter: https://github.com/leungll/NENU-Letter-Template
-3. 个人陈述等 Personal Statement/Research Proposal: 我当时用ICLR会议的模板修改的(https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt)
+3. 个人陈述等 Personal Statement/Research Proposal等文件: 基本都可以用LaTeX写, 我当时用ICLR会议的模板修改的(https://www.overleaf.com/latex/templates/template-for-iclr-2025-conference-submission/gqzkdyycxtvt), 单栏的模板感觉稍微好看一点
 
 
 # 9. 中介
